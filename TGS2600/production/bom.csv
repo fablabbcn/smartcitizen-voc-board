@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x05_P2.54mm_Vertical,1,Conn_01x05_Pin,
+"R1, R2",1206,2,R_1206,
+"U1, U2",TGS-2600,2,~,
